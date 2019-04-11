@@ -1,0 +1,23 @@
+h1 {
+    font-size: 200%;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 150%;
+    color: white;
+    font-family: serif;
+}
+
+p {
+    font-size: large;
+    color: white;
+    font-family: serif;
+}
+
+body {
+    background-color: rgb(36, 26, 26)
+}
